@@ -11,7 +11,7 @@ Poker.jarファイルで実行することが出来ます。また、Pokerバッ
 
 【紹介動画】
 
-ゲームの紹介動画のです。
+ゲームの紹介動画のURLです。
 
 https://clipchamp.com/watch/F3W6StMTS4c
 
